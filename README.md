@@ -1,9 +1,8 @@
 # Tmodloader-Server
-
-Terraria服务器
-IP:[隐藏，请进入开黑啦查看]
-端口:[隐藏，请进入开黑啦查看]
-版本:v0.11.8.9
+# Terraria服务器
+# IP:[隐藏，请进入开黑啦查看]
+# 端口:[隐藏，请进入开黑啦查看]
+# 版本:v0.11.8.9
 
 服务器版本为旧版本（v0.11.8.9），游玩需更换版本教程如下
 ![image](https://user-images.githubusercontent.com/94282618/184531660-a3461677-19ea-4b53-9391-dc63e3cccd78.png)
